@@ -1,0 +1,11 @@
+{
+  "name": "pureFn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/muliyang/code.git",
+  "author": "muliyang <muliyang@pinming.cn>",
+  "license": "MIT",
+  "dependencies": {
+    "loadsh": "^0.0.4"
+  }
+}
