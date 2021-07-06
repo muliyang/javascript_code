@@ -1,5 +1,5 @@
 // 柯理化案例
-const _ = require("loadsh");
+const _ = require("lodash");
 
 // "".match(/\s+/g)  正则表达式 匹配字符串中的所有空格
 // "".match(/\d+/g)  这则表达式 匹配字符串中的所有数字

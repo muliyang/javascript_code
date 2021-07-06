@@ -1,7 +1,7 @@
-// yarn add loadsh
-// loadsh first / each / reverse / findIndex / toUpper
+// yarn add lodash
+// lodash first / each / reverse / findIndex / toUpper
 
-const _ = require("loadsh");
+const _ = require("lodash");
 
 const array = ["lucy", "lili", "kate", "lala"];
 

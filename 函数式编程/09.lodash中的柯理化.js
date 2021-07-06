@@ -4,7 +4,7 @@
 //              如果调用的时候，传递了所有纯函数的参数，会直接执行。
 //              如果只传递了部分参数，carry会返回一个新的函数，并且等待剩余参数的传入
 
-const _ = require("loadsh");
+const _ = require("lodash");
 
 const getSum = (a, b, c) => a + b + c;
 

@@ -34,7 +34,7 @@ const demoFn = () => {
 };
 demoFn()("Hello !");
 
-// 仿写 loadsh 的 once 函数
+// 仿写 lodash 的 once 函数
 const myOnce = function (fn) {
   let flag = false;
   return function () {

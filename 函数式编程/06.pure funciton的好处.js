@@ -1,7 +1,7 @@
 // 纯函数的好处
 // 1 纯函数的运算结果可以缓存，优化性能
 
-const _ = require("loadsh");
+const _ = require("lodash");
 // _.memoize(func, [resolver]) 创建一个会缓存 func 结果的函数。
 
 // 求圆形的面积
